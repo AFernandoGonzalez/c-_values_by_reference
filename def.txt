@@ -1,0 +1,8 @@
+Cal by value
+- argument can be a hard coded value
+- changes not permanent
+- c++ creates a copy of the value store in the variable
+
+Call by refenrence 
+- argument mut be a variable
+- passes in value itself = &variable = (&score)
